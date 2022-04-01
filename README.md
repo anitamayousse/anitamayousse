@@ -111,7 +111,8 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
-<div  align="center">
+<div  align="center"  >
+<div style="display: flex;">
   <a href="https://anitamayousse.github.io/" target="blank">
     <img width="60" height="60" src="./images/Anita.png" alt="Anita Mayousse" />
   </a>
@@ -130,6 +131,7 @@
   <a href="mailto:anita.mayousse@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="AnitaMayousse-email" />
   </a>
+  </div>
 </div>
 
 <br>
