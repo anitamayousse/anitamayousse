@@ -114,7 +114,7 @@
 <div  align="center"  >
 <div style="display: flex; align-items: flex-start;">
   <a href="https://anitamayousse.github.io/" target="blank">
-    <img width="10" height="10" src="./images/Anita.png" alt="Anita Mayousse" />
+    <img width="60" height="60" src="./images/Anita.png" alt="Anita Mayousse" />
   </a>
   <!-- <a href="https://facebook.com/AnitaMayousse" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="AnitaMayousse-facebook" />
