@@ -112,7 +112,7 @@
 <br>
 <!-- https://icons8.com -->
 <div  align="center"  >
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
   <a href="https://anitamayousse.github.io/" target="blank">
     <img width="60" height="60" src="./images/Anita.png" alt="Anita Mayousse" />
   </a>
