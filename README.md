@@ -111,7 +111,7 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
-<div class="div">
+<div  align="center">
   <a href="https://anitamayousse.github.io/" target="blank">
     <img width="60" height="60" src="./images/Anita.png" alt="Anita Mayousse" />
   </a>
