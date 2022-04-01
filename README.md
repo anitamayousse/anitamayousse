@@ -113,7 +113,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://anitamayousse.github.io/" target="blank">
-    <img  src="./images/Anita.png" alt="Anita Mayousse" />
+    <img width="60" height="60" src="./images/Anita.png" alt="Anita Mayousse" />
   </a>
   <!-- <a href="https://facebook.com/AnitaMayousse" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="AnitaMayousse-facebook" />
