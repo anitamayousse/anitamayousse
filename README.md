@@ -110,12 +110,12 @@
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
-<div  align="center"  >
-<div style="display: flex; align-items: flex-start;">
   <a href="https://anitamayousse.github.io/" target="blank">
     <img width="60" height="60" src="./images/Anita.png" alt="Anita Mayousse" />
   </a>
+<!-- https://icons8.com -->
+<div  align="center"  >
+<div style="display: flex; align-items: flex-start;">
   <!-- <a href="https://facebook.com/AnitaMayousse" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="AnitaMayousse-facebook" />
   </a> -->
